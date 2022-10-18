@@ -1,0 +1,10 @@
+var shade;
+var stoneNumber;
+var ringSize;
+var ringSizeEuropean;
+var unit;
+var pieceType;
+var pieceName;
+var piecePrice;
+var engraveMessage;
+var isStep9Initialized = false;
